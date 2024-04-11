@@ -5,15 +5,16 @@ This project uses natural language processing and unsupervised learning models o
 Table of Contents: 
 1. Load Data Sets
 2. Data Checks
-  2.1 Listings Data Checks
-  2.2 Reviews Data Checks
+2.1 Listings Data Checks
+2.2 Reviews Data Checks
 3. Natural Language Processing
-  3.1 Natural Language Processing of Listings Data Set
-  3.2 Natural Language Processing of Reviews Data Set
+3.1 Natural Language Processing of Listings Data Set
+3.2 Natural Language Processing of Reviews Data Set
 4. Exploring Key Trends
 5. Simplistics Model
-  5.1 Divide Listings into Categories
-  5.2 Divide Reviews into Categories
-6. Topic Modelling
-7. K-means Clustering
-8. Advanced Filter
+5.1 Divide Listings into Categories
+5.2 Divide Reviews into Categories
+   
+7. Topic Modelling
+8. K-means Clustering
+9. Advanced Filter
